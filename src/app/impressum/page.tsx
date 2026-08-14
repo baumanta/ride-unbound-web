@@ -11,7 +11,7 @@ export default function ImpressumPage() {
         </h2>
 
         <div className="space-y-1 text-slate-700">
-          <p>Tanja Baumann & Mark Skarupa</p>
+          <p>Mark Skarupa & Tanja Baumann</p>
           <p>Dörflistrasse 11</p>
           <p>8057 Zürich</p>
           <p>Schweiz</p>

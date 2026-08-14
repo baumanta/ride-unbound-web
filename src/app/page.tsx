@@ -83,10 +83,9 @@ export default function Home() {
               </h3>
 
               <p className="text-slate-600">
-                Leistungsstarkes Adaptive Mountain Bike für anspruchsvolle
-                Trails und lange Touren.
+                Entwickelt für anspruchsvolle Trails, lange Touren und Fahrer die maximale Performance suchen.
                 <Image
-                  src="/pictures/RX-SIDE-VIEW.jpg"
+                  src="/pictures/Bowhead RX v2 (Calgary)-35.jpg"
                   alt="Tanja Baumann und Mark Skarupa mit ihren Bikes am Trail-Einstieg"
                    width={1200}
                   height={800}
@@ -104,9 +103,9 @@ export default function Home() {
               </h3>
 
               <p className="text-slate-600">
-                Informationen zu weiteren Bowhead-Modellen folgen.
+                Vom entspannten Ausflug bis zum anspruchsvollen Trail – dank vollelektrischem Antrieb ist das Reach der vielseitige Allrounder.
                 <Image
-                  src="/pictures/REACH-1.jpg"
+                  src="/pictures/DSC04938.jpg"
                   alt="Tanja Baumann und Mark Skarupa mit ihren Bikes am Trail-Einstieg"
                    width={1200}
                   height={800}
@@ -124,9 +123,9 @@ export default function Home() {
               </h3>
 
               <p className="text-slate-600">
-                Informationen zu weiteren Bowhead-Modellen folgen.
+                Verbindet intuitive Bedienung und hohe Stabilität mit dem dynamischen Fahrgefühl eines adaptiven Mountainbikes.
                 <Image
-                  src="/pictures/ROGUE-1.jpg"
+                  src="/pictures/DSC04695-Enhanced-NR_cropped.jpg"
                   alt="Tanja Baumann und Mark Skarupa mit ihren Bikes am Trail-Einstieg"
                    width={1200}
                   height={800}
@@ -144,7 +143,7 @@ export default function Home() {
               </h3>
 
               <p className="text-slate-600">
-                Informationen zu weiteren Bowhead-Modellen folgen.
+                Dank vier Rädern bietet der Ranger maximale Stabilität und Sicherheit für Abenteuer abseits befestigter Wege.
                 <Image
                   src="/pictures/DSC07393.jpg"
                   alt="Tanja Baumann und Mark Skarupa mit ihren Bikes am Trail-Einstieg"

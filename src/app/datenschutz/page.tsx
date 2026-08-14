@@ -8,7 +8,7 @@ export default function DatenschutzPage() {
           <h2 className="mb-3 text-xl font-semibold text-slate-900">
             Verantwortliche Stelle
           </h2>
-          <p>Tanja Baumann & Mark Skarupa</p>
+          <p>Mark Skarupa & Tanja Baumann</p>
           <p>Dörflistrasse 11</p>
           <p>8057 Zürich</p>
           <p>Schweiz</p>
@@ -93,7 +93,7 @@ export default function DatenschutzPage() {
         </section>
 
         <p className="pt-4 text-sm text-slate-500">
-          Stand: Juni 2026. Beyond Mobility befindet sich derzeit in Gründung.
+          Stand: August 2026. Ride Unbound befindet sich derzeit in Gründung.
         </p>
       </div>
     </main>
